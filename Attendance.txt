@@ -1,0 +1,15 @@
+Tonight’s attendees:
+Class   Method     Object    Instance variable
+1. I am compiled from a .java file.    answer - class
+2. My instance variable values can be different from my buddy’s values. answer -  Instance variable 
+3. I behave like a template.           answer  -  class
+4. I like to do stuff.                 answer  -  Method
+5. I can have many methods.            answer  -  Class
+6. I represent ‘state’.                answer  -  Instance Variable 
+7. I have behaviors.                   answer  -  Object
+8. I am located in objects.            answer  -  Instance Variable 
+9. I live on the heap.                 answer  -  Object 
+10. I am used to create object instances. answer  -  Constructor 
+11. My state can change.                  answer  -  Object / Instance Variable
+12. I declare methods.                    answer  -   Class
+13. I can change at runtime.              answer  -  Object / Instance Variable
