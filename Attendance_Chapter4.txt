@@ -1,0 +1,13 @@
+A class can have any number of these.  answer - instance variables, getter, setter,method
+A method can have only one of these.   answer - return
+This can be implicitly promoted.       answer - return, argument
+I prefer my instance variables private. answer - encapsulation
+It really means ‘make a copy’.          answer - pass by value
+Only setters should update these.       answer - instance variables
+A method can have many of these.        answer - argument
+I return something by definition.       answer - getter
+I shouldn’t be used with instance variables. answer - public
+I can have many arguments.              answer - method
+By definition, I take one argument.     answer - setter
+These help create encapsulation.        answer - getter, setter, public, private
+I always fly solo.                      answer - return
